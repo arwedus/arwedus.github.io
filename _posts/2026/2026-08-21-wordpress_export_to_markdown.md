@@ -5,8 +5,6 @@ layout: post
 lang: en
 ---
 
-# Exporting my WordPress blog to Markdown
-
 My workflows are increasingly based on docs-as-code and Markdown. Markdown files are easy to access locally, quick to edit and search, and work well with the tools I use to build a personal knowledge base. For those reasons, I decided to move the content of my WordPress blog to Markdown.
 
 The [wordpress-export-to-markdown](https://github.com/lonekorean/wordpress-export-to-markdown) project does exactly that: it converts a WordPress export file into Markdown files and downloads the associated media.
