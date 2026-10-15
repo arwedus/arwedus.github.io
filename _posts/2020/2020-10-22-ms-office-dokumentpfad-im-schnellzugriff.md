@@ -13,7 +13,7 @@ Um direkten Zugriff auf den Dateipfad eines geöffneten Dokuments zu haben, läs
 
 <figure>
 
-[![](https://arwedus.wordpress.com/wp-content/uploads/2020/10/office_schnellzugriff_dokumentpfad_2.png?w=322)](https://arwedus.wordpress.com/wp-content/uploads/2020/10/office_schnellzugriff_dokumentpfad_2.png)
+[![](/assets/img/posts/2020-10-22-ms-office-dokumentpfad-im-schnellzugriff/office_schnellzugriff_dokumentpfad_2.png)](/assets/img/posts/2020-10-22-ms-office-dokumentpfad-im-schnellzugriff/office_schnellzugriff_dokumentpfad_2.png)
 
 <figcaption>
 

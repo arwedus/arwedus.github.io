@@ -17,7 +17,7 @@ In 2013 I bought a Synology DiskStation NAS for us and I wanted to create my own
 
 <figure>
 
-[![](https://arwedus.wordpress.com/wp-content/uploads/2020/12/synology_caldav_sync.png?w=676)](https://arwedus.wordpress.com/wp-content/uploads/2020/12/synology_caldav_sync.png)
+[![](/assets/img/posts/2020-12-06-calendar-sync-with-caldav-and-synology-diskstation/synology_caldav_sync.png)](/assets/img/posts/2020-12-06-calendar-sync-with-caldav-and-synology-diskstation/synology_caldav_sync.png)
 
 <figcaption>
 
@@ -50,7 +50,7 @@ Part 1: Installing Synology Calendar
 6. Klick on the little drop-down menu icon next to the calendar name and select "CalDAV Account" (D: "CalDAV Konto"). Write down the URLs.  
     
 
-[![](https://arwedus.wordpress.com/wp-content/uploads/2020/12/grafik.png?w=894)](https://arwedus.wordpress.com/wp-content/uploads/2020/12/grafik.png)
+[![](/assets/img/posts/2020-12-06-calendar-sync-with-caldav-and-synology-diskstation/grafik.png)](/assets/img/posts/2020-12-06-calendar-sync-with-caldav-and-synology-diskstation/grafik.png)
 
 Part 2: Getting Thunderbird to sync
 

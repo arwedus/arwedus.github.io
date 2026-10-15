@@ -20,7 +20,7 @@ timezone: Europe/Berlin
 
 title: Thoughts on Programming, Technology and Software
 
-tagline: A personal cue card collection for solutions in daily programming work
+tagline: A collection of solutions, tutorials and ideas for IT problems and daily programming work
 
 description: >- # used by seo meta and the atom feed
   Notes and solutions on programming, technology and software.
@@ -38,12 +38,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Arwed
+  name: Arwed Starke
   email: # TODO: fill in your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/arwedus # TODO: confirm/adjust
+    - https://github.com/arwedus
 
 # Site Verification Settings
 webmaster_verifications:
@@ -95,7 +95,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/profilfoto.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 social_preview_image: # string, local or CORS resources
