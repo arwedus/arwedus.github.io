@@ -1,9 +1,9 @@
 ---
 title: "SVN Batch Update with TortoiseSVN"
 date: "2010-06-10"
-categories: 
-  - "project-management"
-  - "tools"
+categories:
+  - "programming"
+  - "vcs"
 layout: post
 lang: en
 ---

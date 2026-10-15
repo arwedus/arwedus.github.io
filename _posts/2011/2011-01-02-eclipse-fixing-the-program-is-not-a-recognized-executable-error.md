@@ -1,10 +1,10 @@
 ---
 title: "Eclipse: Fixing the \"Program is not a Recognized Executable\" Error"
 date: "2011-01-02"
-categories: 
-  - "c-and-c"
-  - "eclipse"
+categories:
   - "programming"
+  - "C and C++"
+  - "eclipse"
 layout: post
 lang: en
 ---

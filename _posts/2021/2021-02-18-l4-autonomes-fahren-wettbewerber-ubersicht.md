@@ -1,6 +1,8 @@
 ---
 title: "L4+ Autonomes Fahren Wettbewerber Übersicht"
 date: "2021-02-18"
+categories:
+  - "uncategorized"
 layout: post
 lang: de-DE
 ---

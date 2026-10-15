@@ -1,9 +1,10 @@
 ---
 title: "Linux: Show files from an apt package"
 date: "2021-04-28"
-categories: 
+categories:
+  - "computers-and-software"
   - "linux"
-tags: 
+tags:
   - "apt"
 layout: post
 lang: en

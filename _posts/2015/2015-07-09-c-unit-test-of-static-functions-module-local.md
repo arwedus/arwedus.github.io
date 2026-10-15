@@ -1,8 +1,9 @@
 ---
 title: "C: Unit test of static functions (module local)"
 date: "2015-07-09"
-categories: 
-  - "c-and-c"
+categories:
+  - "programming"
+  - "C and C++"
 layout: post
 lang: en
 ---

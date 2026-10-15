@@ -1,6 +1,9 @@
 ---
 title: "Github actions: Workflow tricks"
 date: "2022-02-23"
+categories:
+  - "programming"
+  - "CI/CD"
 layout: post
 lang: en
 ---
@@ -21,7 +24,7 @@ on:
     types: [opened, closed, reopened, synchonize]
 
 jobs:
-  build:    
+  build:
     name: Print info
     runs-on: ubuntu-latest
     steps:

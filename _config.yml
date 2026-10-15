@@ -171,6 +171,15 @@ kramdown:
       line_numbers: true
       start_line: 1
 
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
+
 collections:
   tabs:
     output: true

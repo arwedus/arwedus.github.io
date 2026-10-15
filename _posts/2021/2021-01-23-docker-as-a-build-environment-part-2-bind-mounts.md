@@ -1,9 +1,9 @@
 ---
 title: "Docker as a build environment, Part 2: Bind mounts"
 date: "2021-01-23"
-categories: 
-  - "docker"
+categories:
   - "programming"
+  - "docker"
 layout: post
 lang: en
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Howto: Store Contacts and Calender Entries outside Google Account (Sony)"
 date: "2016-07-31"
+categories:
+  - "android"
 layout: post
 lang: en
 ---

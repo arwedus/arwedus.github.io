@@ -1,6 +1,8 @@
 ---
 title: "Exporting a WordPress blog to Markdown"
 date: "2026-08-21"
+categories:
+  - "docs-as-code"
 layout: post
 lang: en
 ---

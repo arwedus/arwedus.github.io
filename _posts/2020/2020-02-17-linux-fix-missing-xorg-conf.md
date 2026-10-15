@@ -1,9 +1,10 @@
 ---
 title: "Linux: Fix missing xorg.conf"
 date: "2020-02-17"
-categories: 
+categories:
+  - "computers-and-software"
   - "linux"
-tags: 
+tags:
   - "nvidia"
 layout: post
 lang: en

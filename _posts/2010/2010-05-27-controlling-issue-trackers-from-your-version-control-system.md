@@ -1,9 +1,9 @@
 ---
 title: "Controlling issue trackers from your version control system"
 date: "2010-05-27"
-categories: 
-  - "project-management"
-  - "tools"
+categories:
+  - "programming"
+  - "vcs"
 layout: post
 lang: en
 ---

@@ -2,8 +2,8 @@
 title: "Docker as a build environment"
 date: "2021-01-23"
 categories: 
-  - "docker"
   - "programming"
+  - "docker"
 layout: post
 lang: en
 ---

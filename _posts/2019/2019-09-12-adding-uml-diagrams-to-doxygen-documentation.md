@@ -1,6 +1,9 @@
 ---
 title: "Adding UML Diagrams to Doxygen documentation"
 date: "2019-09-12"
+categories:
+  - "programming"
+  - "docs-as-code"
 layout: post
 lang: en
 ---

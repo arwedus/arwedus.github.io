@@ -1,6 +1,9 @@
 ---
 title: "Unix: Copy a list of files"
 date: "2010-10-01"
+categories:
+  - "programming"
+  - "shell"
 layout: post
 lang: en
 ---

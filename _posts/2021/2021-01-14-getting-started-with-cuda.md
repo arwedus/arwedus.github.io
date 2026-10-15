@@ -1,6 +1,8 @@
 ---
 title: "Getting started with CUDA"
 date: "2021-01-14"
+categories:
+  - "CUDA"
 layout: post
 lang: en
 ---

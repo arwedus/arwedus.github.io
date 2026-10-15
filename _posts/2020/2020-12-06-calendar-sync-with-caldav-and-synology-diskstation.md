@@ -1,12 +1,14 @@
 ---
 title: "Calendar Sync with CalDAV and Synology DiskStation"
 date: "2020-12-06"
-tags: 
+tags:
   - "caldav"
   - "calendar"
   - "diskstation"
   - "nas"
   - "synology"
+categories:
+  - "network-attached-storage"
 layout: post
 lang: en
 ---
@@ -42,13 +44,13 @@ Part 1: Installing Synology Calendar
 
 1. Log in to your DiskStation GUI as admin
 2. Install the "Synology Calendar" app
-3. Your users need access rights to the application (Control Center -> Users):  
+3. Your users need access rights to the application (Control Center -> Users):
     Click on Application tab and select "Synology Calendar" - Allow (see below)
 4. Log in as regular user on the DS and try to open the Calendar -> should work
-5. You see a "My Calendar". Create a second calendar for shared calendar entries.  
+5. You see a "My Calendar". Create a second calendar for shared calendar entries.
     For this calendar, you can invite other DiskStation users via drop-down menu point "share" ("Freigeben").
-6. Klick on the little drop-down menu icon next to the calendar name and select "CalDAV Account" (D: "CalDAV Konto"). Write down the URLs.  
-    
+6. Klick on the little drop-down menu icon next to the calendar name and select "CalDAV Account" (D: "CalDAV Konto"). Write down the URLs.
+
 
 [![](/assets/img/posts/2020-12-06-calendar-sync-with-caldav-and-synology-diskstation/grafik.png)](/assets/img/posts/2020-12-06-calendar-sync-with-caldav-and-synology-diskstation/grafik.png)
 
@@ -62,8 +64,8 @@ It's in German because I could not find an English version of the same page, but
 
 1. Right-click on "Calendar" -> select "New Calendar"
 2. Select "on the network", click next
-3. Select "CalDAV", and enter the URL which you have written down from "CalDAV Account".  
-    NOTE: You can also use https://name-of-my-diskstation:5001/caldav/<username>/home if you want to have SSH connection  
+3. Select "CalDAV", and enter the URL which you have written down from "CalDAV Account".
+    NOTE: You can also use https://name-of-my-diskstation:5001/caldav/<username>/home if you want to have SSH connection
     Mark "offline support" checkbox and click next
 4. Add your mail address and all other info, then click finish
 5. Try to synchronize with a test calendar entry. You'll notice that all your existing calendar entries are still in the old calendar and thus, not synced. More on that later.

@@ -1,6 +1,8 @@
 ---
 title: "Create .lib file from .dll"
 date: "2014-07-10"
+categories:
+  - "programming"
 layout: post
 lang: en
 ---

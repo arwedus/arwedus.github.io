@@ -1,6 +1,8 @@
 ---
 title: "Hello world!"
 date: "2010-05-17"
+categories:
+  - "uncategorized"
 layout: post
 lang: en
 ---

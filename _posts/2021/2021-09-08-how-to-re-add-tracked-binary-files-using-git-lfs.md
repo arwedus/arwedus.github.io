@@ -4,6 +4,9 @@ date: "2021-09-08"
 tags: 
   - "git"
   - "lfs"
+categories:
+  - "programming"
+  - "vcs"
 layout: post
 lang: en
 ---

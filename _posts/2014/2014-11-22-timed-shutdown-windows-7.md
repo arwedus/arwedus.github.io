@@ -1,6 +1,9 @@
 ---
 title: "Timed shutdown (Windows 7)"
 date: "2014-11-22"
+categories:
+  - "computers-and-software"
+  - "windows"
 layout: post
 lang: en
 ---

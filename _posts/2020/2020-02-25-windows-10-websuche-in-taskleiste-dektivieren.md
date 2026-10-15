@@ -1,6 +1,9 @@
 ---
 title: "Windows 10: Websuche in Taskleiste deaktivieren"
 date: "2020-02-25"
+categories:
+  - "computers-and-software"
+  - "windows"
 layout: post
 lang: en
 ---

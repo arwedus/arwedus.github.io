@@ -1,9 +1,9 @@
 ---
 title: "C++ Style Int or Float to String conversion"
 date: "2010-12-20"
-categories: 
-  - "c-and-c"
+categories:
   - "programming"
+  - "C and C++"
 layout: post
 lang: en
 ---

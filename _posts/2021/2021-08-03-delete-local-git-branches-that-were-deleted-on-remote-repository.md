@@ -1,6 +1,9 @@
 ---
 title: "Delete local git branches that were deleted on remote repository"
 date: "2021-08-03"
+categories:
+  - "programming"
+  - "vcs"
 layout: post
 lang: en
 ---

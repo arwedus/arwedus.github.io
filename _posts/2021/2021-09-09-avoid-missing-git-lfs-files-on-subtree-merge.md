@@ -1,6 +1,9 @@
 ---
 title: "Avoid missing git LFS files on subtree merge"
 date: "2021-09-09"
+categories:
+  - "programming"
+  - "vcs"
 layout: post
 lang: en
 ---

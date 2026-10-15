@@ -1,11 +1,12 @@
 ---
 title: "Random Bash wisdom"
 date: "2021-01-11"
-categories: 
-  - "linux"
-  - "programming"
+categories:
+  - "programming" 
+  - "shell"
 layout: post
 lang: en
+tags: bash
 ---
 
 I've recently found myself writing some bash scripts and I wanted to collect some random wisdom I aggregated:

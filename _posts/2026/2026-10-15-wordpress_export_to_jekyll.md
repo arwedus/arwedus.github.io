@@ -1,6 +1,8 @@
 ---
 title: "From WordPress export to a Jekyll site"
 date: "2026-10-15"
+categories:
+  - "docs-as-code"
 layout: post
 lang: en
 ---

@@ -1,9 +1,10 @@
 ---
 title: "How to make docker in VS Code devcontainer use the host network"
 date: "2025-02-21"
-categories: 
-  - "docker"
+categories:
+  - "computers-and-software"
   - "linux"
+  - "docker"
 layout: post
 lang: en
 ---
@@ -14,7 +15,7 @@ However, this is not the default and there is no central docker configuration fi
 
 You can add this configuration setting to .devcontainer/devcontainer.json to forward the \--network=host option to docker build:
 
-```
+```json
 {
   "build": {
     # ...
@@ -26,7 +27,7 @@ You can add this configuration setting to .devcontainer/devcontainer.json to for
 
 And you can add this configuration setting to .devcontainer/devcontainer.json to forward the \--network=host option to docker run:
 
-```
+```json
 {
   # ...
   "runArgs": ["--network=host"]

@@ -1,6 +1,9 @@
 ---
 title: "Find out default python version for any Ubuntu release"
 date: "2022-02-18"
+categories:
+  - "computers-and-software"
+  - "linux"
 layout: post
 lang: en
 ---

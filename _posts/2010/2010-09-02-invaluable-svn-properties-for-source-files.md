@@ -1,10 +1,9 @@
 ---
 title: "Invaluable SVN properties for source files"
 date: "2010-09-02"
-categories: 
+categories:
   - "programming"
-  - "project-management"
-  - "tools"
+  - "vcs"
 layout: post
 lang: en
 ---

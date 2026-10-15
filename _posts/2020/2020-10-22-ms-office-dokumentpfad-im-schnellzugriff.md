@@ -1,9 +1,10 @@
 ---
 title: "MS Office: Dokumentpfad im Schnellzugriff"
 date: "2020-10-22"
-categories: 
+categories:
+  - "computers-and-software"
   - "windows"
-tags: 
+tags:
   - "office"
 layout: post
 lang: de-DE
@@ -30,7 +31,7 @@ So geht's:
 - Gehe auf "Datei" -> "Optionen"
 - Wähle Seite "Symbolleiste für den Schnellzugriff
 - Im Drop-Down "Befehle auswählen:" auf "alle"
-- In der Liste zum Befehl "Dokumentspeicherort" scrollen und diesen markieren:  
+- In der Liste zum Befehl "Dokumentspeicherort" scrollen und diesen markieren:
     ![](/assets/img/posts/2020-10-22-ms-office-dokumentpfad-im-schnellzugriff/office_schnellzugriff_dokumentpfad_1.png)
 - Auf "Hinzufügen >" klicken
 - Dialogfeld mit "OK" schließen

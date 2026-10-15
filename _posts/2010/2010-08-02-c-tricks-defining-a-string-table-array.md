@@ -1,10 +1,10 @@
 ---
 title: "C Tricks: Defining a String Table (Array)"
 date: "2010-08-02"
-categories: 
-  - "c-and-c"
+categories:
   - "programming"
-tags: 
+  - "C and C++"
+tags:
   - "array-of-strings"
   - "string-table"
 layout: post

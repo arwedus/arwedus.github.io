@@ -1,7 +1,8 @@
 ---
 title: "Ubuntu: Find out from which repository a package comes from"
 date: "2021-04-27"
-categories: 
+categories:
+  - "computers-and-software"
   - "linux"
 layout: post
 lang: en

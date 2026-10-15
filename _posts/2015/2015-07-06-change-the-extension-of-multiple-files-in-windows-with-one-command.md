@@ -1,7 +1,8 @@
 ---
 title: "Change the extension of multiple files in Windows with one command"
 date: "2015-07-06"
-categories: 
+categories:
+  - "computers-and-software"
   - "windows"
 layout: post
 lang: en

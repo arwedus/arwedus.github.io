@@ -1,6 +1,9 @@
 ---
 title: "SVN Merge done right"
 date: "2010-11-23"
+categories:
+  - "programming"
+  - "vcs"
 layout: post
 lang: en
 ---
