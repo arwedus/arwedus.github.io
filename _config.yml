@@ -221,3 +221,5 @@ exclude:
   - scripts
   - "*.xml"
   - vendor
+  - README.md
+  - CLAUDE.md
