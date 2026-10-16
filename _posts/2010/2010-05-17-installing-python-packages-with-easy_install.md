@@ -1,9 +1,9 @@
 ---
 title: "Installing Python packages with easy_install"
 date: "2010-05-17"
-categories: 
+categories:
   - "python"
-tags: 
+tags:
   - "easy_install"
   - "firewall"
   - "proxy"

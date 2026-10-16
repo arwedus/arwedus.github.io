@@ -1,7 +1,7 @@
 ---
 title: "How to re-add tracked binary files using git LFS"
 date: "2021-09-08"
-tags: 
+tags:
   - "git"
   - "lfs"
 categories:

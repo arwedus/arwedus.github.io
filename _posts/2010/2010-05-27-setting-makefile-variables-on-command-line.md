@@ -1,7 +1,7 @@
 ---
 title: "Setting Makefile variables on command line"
 date: "2010-05-27"
-categories: 
+categories:
   - "programming"
   - "tools"
 layout: post

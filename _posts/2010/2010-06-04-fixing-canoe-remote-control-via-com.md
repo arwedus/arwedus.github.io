@@ -1,7 +1,7 @@
 ---
 title: "Fixing CANoe remote control via COM"
 date: "2010-06-04"
-categories: 
+categories:
   - "programming"
   - "tools"
 layout: post

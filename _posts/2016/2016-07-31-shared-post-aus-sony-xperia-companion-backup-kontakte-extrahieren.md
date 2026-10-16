@@ -1,7 +1,7 @@
 ---
 title: "Shared Post: Aus Sony Xperia Companion Backup Kontakte extrahieren"
 date: "2016-07-31"
-categories: 
+categories:
   - "android"
 layout: post
 lang: de-DE

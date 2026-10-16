@@ -1,7 +1,7 @@
 ---
 title: "Doxygen cannot handle more than one image with the same name"
 date: "2021-01-29"
-categories: 
+categories:
   - "programming"
 layout: post
 lang: en

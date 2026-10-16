@@ -1,7 +1,7 @@
 ---
 title: "Visual Studio: Collapse Solution Explorer"
 date: "2010-05-27"
-categories: 
+categories:
   - "programming"
   - "visual-studio"
 layout: post

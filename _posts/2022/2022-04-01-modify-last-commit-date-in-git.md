@@ -1,9 +1,9 @@
 ---
 title: "Modify last commit date in git"
 date: "2022-04-01"
-categories: 
+categories:
   - "programming"
-tags: 
+tags:
   - "git"
 layout: post
 lang: en

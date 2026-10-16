@@ -1,7 +1,7 @@
 ---
 title: "Dump the context of a github action"
 date: "2022-02-22"
-categories: 
+categories:
   - "programming"
 layout: post
 lang: en

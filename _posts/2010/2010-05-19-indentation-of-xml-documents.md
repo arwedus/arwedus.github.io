@@ -1,7 +1,7 @@
 ---
 title: "Indentation of XML documents"
 date: "2010-05-19"
-categories: 
+categories:
   - "xml"
 layout: post
 lang: en

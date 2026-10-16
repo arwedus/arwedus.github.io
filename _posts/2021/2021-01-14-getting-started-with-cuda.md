@@ -21,7 +21,7 @@ No API activities were profiled.
 ======== Error: Application received signal 11
 ```
 
-`"Signal 11"` is `SIGSEGV` (segmentation fault). I did some web search to find out that I need to add an option for nvprof to work:  
+`"Signal 11"` is `SIGSEGV` (segmentation fault). I did some web search to find out that I need to add an option for nvprof to work:
 `$ nvprof --unified-memory-profiling off ./add_cuda`
 
 But why doesn't it work like in the example? Because NVidia profiler is deprecated since the Volta GPU generation, which is the last to still support it.
@@ -31,7 +31,7 @@ But why doesn't it work like in the example? Because NVidia profiler is deprecat
 - NVidia Geforce RTX 20... (on workstation) = Turing Architecture, inofficial/partial support for nvprof
 - See also: [https://docs.nvidia.com/cuda/profiler-users-guide/index.html#migrating-to-nsight-tools](https://docs.nvidia.com/cuda/profiler-users-guide/index.html#migrating-to-nsight-tools)
 
-So the call failed but it's also not supported any more. I tried using the replacement _nsys_ instead.  
+So the call failed but it's also not supported any more. I tried using the replacement _nsys_ instead.
 Turns out you need to install NsightSystems first. To do so, register at [https://developer.nvidia.com/](https://developer.nvidia.com/) and go to the Download section. After installation, run from the console:
 
 ```

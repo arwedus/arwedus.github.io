@@ -1,7 +1,7 @@
 ---
 title: "Python: Cleaning a virtual environment"
 date: "2021-07-13"
-categories: 
+categories:
   - "python"
 layout: post
 lang: en
@@ -11,5 +11,5 @@ If you want to test whether a requirements.txt installs all packages required to
 
 1. Delete the virtual environment and create it again.
 2. Remove all packages installed into the virtual environment:
-    
+
     `pip freeze | xargs pip uninstall -y Then install all packages from the requirements.txt again: pip install -r requirements.txt`

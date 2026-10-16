@@ -40,7 +40,7 @@ But if you have binary graphics files you have created manually (either a snapsh
 If you use git, you should use git LFS in your project to store binary files within the repository. To add the most common binary format image files to the git LFS tracking list, enter in each repo:
 
 ```
-git lfs track '*.png' 
+git lfs track '*.png'
 same for '*.gif', '*.jpg', '*.eps' ... (.svg is a text format).
 ```
 

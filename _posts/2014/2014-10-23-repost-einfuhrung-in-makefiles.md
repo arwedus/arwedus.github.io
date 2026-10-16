@@ -1,7 +1,7 @@
 ---
 title: "Repost: Einführung in Makefiles"
 date: "2014-10-23"
-categories: 
+categories:
   - "programming"
 layout: post
 lang: en

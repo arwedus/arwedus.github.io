@@ -1,7 +1,7 @@
 ---
 title: "Windows: CD/DVD brennen ohne Adminrechte"
 date: "2014-01-02"
-categories: 
+categories:
   - "computers-and-software"
   - "windows"
 layout: post

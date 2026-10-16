@@ -1,7 +1,7 @@
 ---
 title: "Zweite SSD Festplatte in Lenvo Yoga 13 einbauen"
 date: "2016-01-02"
-categories: 
+categories:
   - "computers-and-software"
   - "hardware"
 layout: post
@@ -37,6 +37,6 @@ Das Ideapad Yoga 13 von Lenovo hat einen zweiten mSATA Slot, in welchen eine wei
 6. Alle Torx T5 Schrauben auf der Rückseite und die 5 M2 Schrauben auf der Oberseite wie im Hardware Maintainance Manual beschrieben lösen, danach mit dem Fingernagel oder flacher Plastikklinge den Gehäusedeckel lösen, dabei zwischen der silbernen Gehäuserückseite und der schwarzen Vorderseite ansetzen. Am Einfachsten geht dies, wenn der Laptopbildschirm vollständig umgeklappt ist und auf einer weichen, nicht kratzenden Unterlage liegt. Haltenasen befinden sich an mehreren Stellen auf der Rückseite, den Seiten und der Vorderseite, gehen aber ohne viel Kraftaufwand auf, wenn man dazwischenfährt. Es befindet sich auch eine Haltenase zwischen dem HDMI- und USB-Anschluss auf der linken Seite des Gehäuses. Diese ist am schwersten wegzudrücken. Die Gehäuseoberseite wird vorne von Magneten mit an Ort und Stelle gehalten, ist aber leicht anzuheben.
 7. Vorsicht! Beim Anheben der Oberseite des Gehäuses auf das "Power Button Kabel" (links) und das Touchpad-Flachbandkabel (rechts) achten. Das Hardware Maintainance Manual schreibt vor, dass diese zu lösen sind. Man kommt aber an den zweiten mSATA-Slot, ohne diese zu lösen, insbesondere wenn eine zweite Person hilft und die Oberseite hoch und leicht zur Seite hält, während man die mSATA SSD einbaut. Das linke Kabel ist leicht zu lösen (herkömmlicher Stecker-Adapter), das Touchpad-Kabel habe ich nicht ausprobiert.
 8. Wie "Old Guy Geek" schon geschrieben hat, muss man beim Neustart des Rechners in das BIOS, damit die Festplatte von Windows erkannt wird. Man muss im BIOS keine Einstellungen ändern, die Festplatte sollte dort erkannt werden:
-    
+
     \[caption id="attachment\_173" align="alignnone" width="3264"\]![BIOS main page "Information"](/assets/img/posts/2016-01-02-zweite-ssd-festplatte-in-lenvo-yoga-13-einbauen/img_20160102_190953.jpg) Lenovo Yoga 13 after adding a 2nd SSD\[/caption\]
 9. Damit Windows den Datenträger verwenden kann, muss in der "Datenträgerverwaltung" in der "Computerverwaltung" (Start -> Alle Programme -> Verwaltung -> Rechtsklick auf "Computerverwaltung" und  "Ausführen als Administrator") die Festplatte partitioniert werden.

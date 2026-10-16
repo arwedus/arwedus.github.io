@@ -1,7 +1,7 @@
 ---
 title: "Keyword substitution with Subversion"
 date: "2010-05-28"
-categories: 
+categories:
   - "programming"
   - "tools"
 layout: post

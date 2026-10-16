@@ -12,7 +12,7 @@ If you follow the [github instrauctions about git subtree merges](https://docs.g
 
 ```
 $ git push
-Unable to find source for object 6faf8b30c6ffa04ac6a40b313d2ad835979ee13870365fd953c64dfa581b771d (try running git lfs fetch --all)  
+Unable to find source for object 6faf8b30c6ffa04ac6a40b313d2ad835979ee13870365fd953c64dfa581b771d (try running git lfs fetch --all)
 ```
 
 git lfs fetch --all won't to the trick here, as you have to transfer the LFS files from the remote repository that is the source of the subtree merge to the target repository.

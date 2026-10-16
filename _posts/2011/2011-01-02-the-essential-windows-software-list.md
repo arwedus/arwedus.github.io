@@ -1,7 +1,7 @@
 ---
 title: "The Essential Windows Software List (Update 3)"
 date: "2011-01-02"
-categories: 
+categories:
   - "computers-and-software"
   - "windows"
 layout: post

@@ -1,9 +1,9 @@
 ---
 title: "Python Pitfalls: References to the same dictionary"
 date: "2010-05-18"
-categories: 
+categories:
   - "python"
-tags: 
+tags:
   - "dictionaries"
 layout: post
 lang: en

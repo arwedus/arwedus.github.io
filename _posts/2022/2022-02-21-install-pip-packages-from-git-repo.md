@@ -1,9 +1,9 @@
 ---
 title: "Install pip packages from git repo"
 date: "2022-02-21"
-categories: 
+categories:
   - "python"
-tags: 
+tags:
   - "git"
 layout: post
 lang: en

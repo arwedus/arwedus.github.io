@@ -1,7 +1,7 @@
 ---
 title: "Shared post: Using SCons effectively"
 date: "2016-06-01"
-categories: 
+categories:
   - "programming"
   - "python"
 layout: post

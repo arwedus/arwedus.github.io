@@ -1,7 +1,7 @@
 ---
 title: "Fix a spurious ruff python linter warning E402"
 date: "2024-02-01"
-categories: 
+categories:
   - "programming"
   - "python"
 layout: post

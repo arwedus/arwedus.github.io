@@ -1,7 +1,7 @@
 ---
 title: "Libxml2 and Python on Windows"
 date: "2010-05-19"
-categories: 
+categories:
   - "python"
   - "xml"
 layout: post

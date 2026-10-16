@@ -1,7 +1,7 @@
 ---
 title: "Profiling with Python: cProfile and RunSnakeRun"
 date: "2010-06-01"
-categories: 
+categories:
   - "programming"
   - "python"
   - "tools"

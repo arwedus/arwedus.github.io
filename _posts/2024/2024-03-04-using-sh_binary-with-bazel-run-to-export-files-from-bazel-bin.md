@@ -1,9 +1,9 @@
 ---
 title: "Using sh_binary with bazel run to export files from bazel-bin"
 date: "2024-03-04"
-categories: 
+categories:
   - "programming"
-tags: 
+tags:
   - "bazel"
 layout: post
 lang: en

@@ -1,9 +1,9 @@
 ---
 title: "Fix Synology Diskstation Performance issue due to AV"
 date: "2020-12-04"
-categories: 
+categories:
   - "network-attached-storage"
-tags: 
+tags:
   - "diskstation"
   - "ssh"
   - "synology"

@@ -1,7 +1,7 @@
 ---
 title: "Why a PC with multiple adapters on the same network can cause trouble"
 date: "2010-10-28"
-categories: 
+categories:
   - "computers-and-software"
 layout: post
 lang: en

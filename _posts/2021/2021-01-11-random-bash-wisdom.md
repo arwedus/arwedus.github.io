@@ -2,7 +2,7 @@
 title: "Random Bash wisdom"
 date: "2021-01-11"
 categories:
-  - "programming" 
+  - "programming"
   - "shell"
 layout: post
 lang: en
@@ -29,7 +29,7 @@ NOTE: In bash, you can also use "hash" command, as this post summarizes: [https:
 SCRIPT_DIR=$(realpath $(dirname "$0"))
 ```
 
-4\. Understanding Curly braces: [https://www.linux.com/topic/desktop/all-about-curly-braces-bash/](https://www.linux.com/topic/desktop/all-about-curly-braces-bash/)  
+4\. Understanding Curly braces: [https://www.linux.com/topic/desktop/all-about-curly-braces-bash/](https://www.linux.com/topic/desktop/all-about-curly-braces-bash/)
 Now, I don't think every variable should be put in ${}, but it's useful to have a reference on what you can do when using ${} instead of just the $ sign.
 
 5\. I like using pushd and popd, but I also like them to be silent. [https://serverfault.com/questions/108154/can-i-call-pushd-popd-and-prevent-it-printing-the-stack](https://serverfault.com/questions/108154/can-i-call-pushd-popd-and-prevent-it-printing-the-stack) shows how to do it:

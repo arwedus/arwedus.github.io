@@ -1,10 +1,10 @@
 ---
 title: "A good introduction to dependency management in large software projects"
 date: "2023-06-16"
-categories: 
+categories:
   - "programming"
   - "tools"
-tags: 
+tags:
   - "bazel"
   - "continuous-integration"
 layout: post

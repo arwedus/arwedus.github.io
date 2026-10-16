@@ -1,7 +1,7 @@
 ---
 title: "How to tar files matching a given name pattern in all subdirectories"
 date: "2024-03-07"
-categories: 
+categories:
   - "computers-and-software"
   - "linux"
 layout: post

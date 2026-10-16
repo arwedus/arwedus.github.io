@@ -1,7 +1,7 @@
 ---
 title: "Treat specific warnings as error in Visual Studio"
 date: "2014-03-27"
-categories: 
+categories:
   - "programming"
   - "C and C++"
   - "visual-studio"
