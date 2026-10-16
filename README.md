@@ -35,6 +35,23 @@ bundle exec jekyll build                     # one-off build into _site/
 Note: with jekyll-polyglot, the default language (English) is served at `/` and German at `/de-DE/`.
 Polyglot builds all languages at once, so builds take a bit longer than a plain Jekyll site.
 
+## Pre-commit hooks
+
+[prek](https://github.com/j178/prek) runs the hooks in `.pre-commit-config.yaml` on every commit.
+They remove trailing whitespace and ensure each file ends with a single newline.
+To install prek, run `uv tool install prek`.
+The config also works with [pre-commit](https://pre-commit.com), if you prefer that and have it installed.
+
+To work with the pre-commit hooks, use the following commands (replace `prek` with `pre-commit` if you use that):
+
+```bash
+prek install               # once per clone: install the Git hook.
+prek autoupdate            # bump the hook versions in the config
+```
+
+When a hook modifies a file, the commit aborts.
+Stage the fixed files and commit again.
+
 ## Project layout
 
 | Path | Purpose |
