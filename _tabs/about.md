@@ -19,3 +19,6 @@ If you're interested in connecting with me professionally, feel free to reach ou
 
 When it comes to computer engineering, my interests are mostly C++, Linux and other POSIX operating systems, Python, docs-as-code, my NAS, digital photo editing, and more recently, AI-assisted software development.
 I like building things, and fixing things - also outside of the digital space.
+
+Btw., the nickname _arwedus_, which I'm using only for my github account, is just a play of words we came up with in high school:
+It's the "pseudo-latin" version of my first name (I have the "Großes Latinum").
