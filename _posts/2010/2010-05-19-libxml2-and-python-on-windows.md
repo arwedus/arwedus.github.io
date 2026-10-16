@@ -14,7 +14,11 @@ For the purpose of using XPath and XQuery out of my python scripts for test stat
 
 Also, I hope to be faster with the C-based implementation of libxml2. For installation, I only had to download [this pre-bundled lxml windows binary](http://pypi.python.org/packages/2.5/l/lxml/lxml-2.2.4.win32-py2.5.exe) from [the python package repository](http://pypi.python.org/simple/lxml); it comes with libxml2 included.
 
-The following code is enough to get the above count: \[sourcecode light="true" language="python"\] from lxml import etree doc = etree.parse(filePath) result = doc.xpath('//event\[evalresult/text()="FALSE"\]\[warnlevel/text()="1"\]') count = len(result) count2 = doc.xpath(count('//event\[evalresult/text()="FALSE"\]\[warnlevel/text()="1"\]')) # alternative \[/sourcecode\]
+The following code is enough to get the above count:
+
+```python
+from lxml import etree doc = etree.parse(filePath) result = doc.xpath('//event[evalresult/text()="FALSE"][warnlevel/text()="1"]') count = len(result) count2 = doc.xpath(count('//event[evalresult/text()="FALSE"][warnlevel/text()="1"]')) # alternative
+```
 
 About XQuery: lxml serves as frontend for libxml2 and libxslt, neither of which support XQuery.
 
